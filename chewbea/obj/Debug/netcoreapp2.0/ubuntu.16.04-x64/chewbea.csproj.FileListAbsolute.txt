@@ -1,0 +1,14 @@
+C:\Users\muham\Source\Repos\chewbea\chewbea\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\libhostpolicy.so
+C:\Users\muham\Source\Repos\chewbea\chewbea\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\libhostfxr.so
+C:\Users\muham\Source\Repos\chewbea\chewbea\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\chewbea
+C:\Users\muham\Source\Repos\chewbea\chewbea\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\chewbea.deps.json
+C:\Users\muham\Source\Repos\chewbea\chewbea\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\chewbea.runtimeconfig.json
+C:\Users\muham\Source\Repos\chewbea\chewbea\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\chewbea.runtimeconfig.dev.json
+C:\Users\muham\Source\Repos\chewbea\chewbea\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\chewbea.dll
+C:\Users\muham\Source\Repos\chewbea\chewbea\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\chewbea.pdb
+C:\Users\muham\Source\Repos\chewbea\chewbea\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\chewbea.csprojAssemblyReference.cache
+C:\Users\muham\Source\Repos\chewbea\chewbea\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\chewbea.csproj.CoreCompileInputs.cache
+C:\Users\muham\Source\Repos\chewbea\chewbea\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\chewbea.AssemblyInfoInputs.cache
+C:\Users\muham\Source\Repos\chewbea\chewbea\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\chewbea.AssemblyInfo.cs
+C:\Users\muham\Source\Repos\chewbea\chewbea\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\chewbea.dll
+C:\Users\muham\Source\Repos\chewbea\chewbea\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\chewbea.pdb

@@ -1,0 +1,11 @@
+c:\users\muham\Source\Repos\chewbea\chewbea\bin\Debug\netcoreapp2.0\chewbea.deps.json
+c:\users\muham\Source\Repos\chewbea\chewbea\bin\Debug\netcoreapp2.0\chewbea.runtimeconfig.json
+c:\users\muham\Source\Repos\chewbea\chewbea\bin\Debug\netcoreapp2.0\chewbea.runtimeconfig.dev.json
+c:\users\muham\Source\Repos\chewbea\chewbea\bin\Debug\netcoreapp2.0\chewbea.dll
+c:\users\muham\Source\Repos\chewbea\chewbea\bin\Debug\netcoreapp2.0\chewbea.pdb
+c:\users\muham\Source\Repos\chewbea\chewbea\obj\Debug\netcoreapp2.0\chewbea.csproj.CoreCompileInputs.cache
+c:\users\muham\Source\Repos\chewbea\chewbea\obj\Debug\netcoreapp2.0\chewbea.AssemblyInfoInputs.cache
+c:\users\muham\Source\Repos\chewbea\chewbea\obj\Debug\netcoreapp2.0\chewbea.AssemblyInfo.cs
+c:\users\muham\Source\Repos\chewbea\chewbea\obj\Debug\netcoreapp2.0\chewbea.dll
+c:\users\muham\Source\Repos\chewbea\chewbea\obj\Debug\netcoreapp2.0\chewbea.pdb
+C:\Users\muham\Source\Repos\chewbea\chewbea\obj\Debug\netcoreapp2.0\chewbea.csprojAssemblyReference.cache
